@@ -2,6 +2,8 @@
 
 Open source platform to build toy trains.
 
+> Questions ? Raise a issue [here](https://github.com/Open-Trains/.github/issues) 
+
 ## Goals
 
 1. FPV Streams
